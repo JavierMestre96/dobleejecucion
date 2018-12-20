@@ -10,8 +10,7 @@ public class DibujoPolares {
         //Método a modificar. radio y angulo están entre 0 y 1.
         //El radio vale 1 en las esquinas
         //El angulo empieza en la parte superior de la vertical y va en sentido antihorario
-
-
+        
         if (angulo <= 0.5 || angulo >= 0.5) {
             if (radio < 0.1) {
                 return new Color(255, 21, 34);
