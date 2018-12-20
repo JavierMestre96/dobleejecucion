@@ -34,7 +34,6 @@ public class DibujoCartesianas {
         return new Color(247, 244, 30);
     }
 
-
     //NO MODIFICAR A PARTIR DE AQUÍ
 
     public static int ANCHO = 400;
