@@ -41,7 +41,7 @@ public class DibujoPolares {
                 return new Color(255, 135, 30);
 
             }
-            if (radio > 0.4 && radio < 0.8) {
+            if (radio > 0.7 && radio < 0.8) {
                 return new Color(255, 21, 34);
 
             }
@@ -49,6 +49,8 @@ public class DibujoPolares {
         }
         return new Color(255, 255, 255);
     }
+
+
 
     //NO MODIFICAR A PARTIR DE AQUÍ
 
